@@ -33,7 +33,7 @@ The courses comprising the Data Science Specialization are:
 * Data Scientist's Toolbox
 
 * R Programming
-
+Git is easy.  Git is fun.  Thanks Linus!
 * Getting and Cleaning Data
 
 * Exploratory Data Analysis
